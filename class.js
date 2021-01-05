@@ -61,7 +61,7 @@ var Car = class {
     this.name = name; // プロパティ
   }
   avg(count01, count02) {
-    console.log((count01 + count02) / 2);
+    console.log((count01 + count02) / 2, "\n");
   }
 };
 
